@@ -19,7 +19,6 @@ define(function(require, exports, module) {
 
     function _createBanner() {
         var textContent  = '<div class="bannerTitle">Typography</div>';
-        textContent     += '<div class="bannerText">Started by Vinnie/Arkady</div>';
 
         var textSurf = new Surface({
             classes: ['banner'],
