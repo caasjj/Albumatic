@@ -1,0 +1,11 @@
+{
+  "generator-famous": {
+    "projectName": "Albumatic",
+    "projectDesc": "an implementation of capptivate.co's Albumatic native iOS demo in famo.us' Javascript framework",
+    "authorLogin": "caasjj",
+    "author": {
+      "name": "Walid Hosseini",
+      "email": "caasjj@gmail.com"
+    }
+  }
+}

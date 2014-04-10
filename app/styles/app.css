@@ -1,0 +1,43 @@
+html {
+    background-color: #E6E5E5;
+    color: #fff;
+}
+
+.layer {
+    background-color: white;
+}
+
+.banner {
+    color: #6F6F6F;
+    text-align: center;
+    border-bottom: 1px solid black;
+    font-size: 13px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.bannerTitle {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.arrowIcon {
+    padding-top: 9px;
+    padding-left: 9px;
+}
+
+.tabBanner {
+    color: #9E9E9E;
+    border-bottom: 1px solid #6F6F6F;
+    text-align: center;
+    padding-top: 12px;
+    font-size: 18px;
+}
+
+.tabLeft {
+    border-right: 1px solid #6F6F6F;
+}
+
+.album {
+    padding: 2px;
+}
